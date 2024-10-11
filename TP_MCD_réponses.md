@@ -2,6 +2,9 @@
 
 Le champion
 
+2. Définition des attributs
+Comment pouvez-vous représenter l'identifiant unique d'un champion dans le modèle ?
+Quels informations sont uniques à un champion ? Les informations non uniques seront alors des entités secondaires.
 3. Définition des attributs
 Comment pouvez-vous représenter l'identifiant unique d'un champion dans le modèle ?
 Quels informations sont uniques à un champion ? Les informations non uniques seront alors des entités secondaires.
