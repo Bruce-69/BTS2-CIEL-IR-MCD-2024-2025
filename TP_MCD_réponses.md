@@ -16,7 +16,7 @@ comptétence = un seul champion
 especes = plusieurs champions
 roles = plusieurs champions
 région = plusieurs champions
-année de sortir = plusieurs champions
+année de sortie = plusieurs champions
 ressources = plusieurs champions
 
 
