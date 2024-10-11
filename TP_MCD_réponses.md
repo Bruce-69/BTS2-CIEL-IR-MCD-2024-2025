@@ -2,14 +2,18 @@
 
 Le champion
 
-2. Définition des attributs
-Comment pouvez-vous représenter l'identifiant unique d'un champion dans le modèle ?
+2) Comment pouvez-vous représenter l'identifiant unique d'un champion dans le modèle ?
 Quels informations sont uniques à un champion ? Les informations non uniques seront alors des entités secondaires.
-3. Définition des attributs
-Comment pouvez-vous représenter l'identifiant unique d'un champion dans le modèle ?
+
+Pk le nom
+
+3) Comment pouvez-vous représenter l'identifiant unique d'un champion dans le modèle ?
 Quels informations sont uniques à un champion ? Les informations non uniques seront alors des entités secondaires.
-4. Identification des entités secondaires
-Outre les champions, quelles autres catégories d'informations sont importantes dans League of Legends et pourront être modélisées sous forme d'entités ?
+
+4) Outre les champions, quelles autres catégories d'informations sont importantes dans League of Legends et pourront être modélisées sous forme d'entités ?
+
+
+
 5. Définition des attributs pour les entités secondaires
 Pour chaque entité secondaire que vous avez identifiée, quelles informations sont nécessaires pour la décrire ?
 6. Établissement des relations
