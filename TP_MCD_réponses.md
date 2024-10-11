@@ -21,12 +21,11 @@ ressources = plusieurs champions
 
 
 
-6) Outre les champions, quelles autres catégories d'informations sont importantes dans League of Legends et pourront être modélisées sous forme d'entités ?
-
-
-
-5. Définition des attributs pour les entités secondaires
+  5) Outre les champions, quelles autres catégories d'informations sont importantes dans League of Legends et pourront être modélisées sous forme d'entités ?
+ Définition des attributs pour les entités secondaires
 Pour chaque entité secondaire que vous avez identifiée, quelles informations sont nécessaires pour la décrire ?
+
+
 
 
 7. Établissement des relations
